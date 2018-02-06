@@ -6,7 +6,8 @@ The following are the additional references and links that I mentioned yesterday
 * [Who and what (i.e., news, blogs, websites, etc.) to follow related to cyber security](https://theartofhacking.org/follow)
 
 ## Ethical Hacking
-* [Security Penetration Testing The Art of Hacking Series LiveLessons (video course)](https://www.safaribooksonline.com/library/view/security-penetration-testing/9780134833989/)
+* [Security Penetration Testing - The Art of Hacking Series LiveLessons (video course)](https://www.safaribooksonline.com/library/view/security-penetration-testing/9780134833989/)
+* [Wireless Networks, IoT, and Mobile Devices Hacking - The Art of Hacking Series (video course) ](https://www.safaribooksonline.com/library/view/wireless-networks-iot/9780134854632/)
 * [The Art of Hacking Video Courses and Resources "theartofhacking.org"](https://theartofhacking.org)
 * [Direct link to the The Art of Hacking GitHub Repository](https://github.com/The-Art-of-Hacking/art-of-hacking)
 * [Upcoming Ethical Hacking Live Training](https://theartofhacking.org/training)

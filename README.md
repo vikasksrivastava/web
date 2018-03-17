@@ -1,4 +1,4 @@
-# The Art of Hacking Website
+# DevOps Simplified
 This is the code for "The Art of Hacking Website".
 The Art of Hacking is a series of video courses that is a complete guide to help you get up and running with your cybersecurity career. You will learn the key tenets and the fundamentals of ethical hacking and security penetration testing techniques. These video courses provide step-by-step real-life scenarios. You will see first hand how an ethical hacker performs initial reconnaissance of a victim and assess systems and network security controls security posture.
 
